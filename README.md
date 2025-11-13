@@ -8,5 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/)
+[![Koyeb](https://img.shields.io/badge/Koyeb-011627?style=for-the-badge&logo=koyeb&logoColor=white)](https://www.koyeb.com)
 
 </div>
